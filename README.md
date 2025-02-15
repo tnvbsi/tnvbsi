@@ -1,3 +1,3 @@
 ### contacts:
-## matrix: `@tnvbsi:matrix.org`
-## discord: `tnvbsi`
+# matrix: `@tnvbsi:matrix.org`
+# discord: `tnvbsi`
